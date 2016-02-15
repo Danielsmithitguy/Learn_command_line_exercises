@@ -10,6 +10,7 @@ I am within the home directory /user/ect
 4) What directory did you run that command in?
 /Users/danielsmith/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_2
 
+|Comand | Action|
 |-----|-------------------------|
 | PWD | Print working directory |
 | PWD | Print working directory |
