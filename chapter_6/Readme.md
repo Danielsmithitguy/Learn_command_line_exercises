@@ -1,6 +1,6 @@
-What's in the tmp directory?
-ls -lr shows me that I have a test.md file somewher
-while ls -1R gives me
+#What's in the tmp directory?
+ls -lr shows me that I have a test.md file somewhere
+#while ls -1R gives me
 Readme.md
 tmp
 
@@ -25,16 +25,16 @@ john
 /Users/danielsmith/workspace/davinci_coders_t1_2016/homework/Learn_command_line_exercises/chapter_6/tmp/stuff/things/frank/joe/alex/john:
 test.md
 
-Can you show me what files are in that directory?
+#Can you show me what files are in that directory?
 ls -1R will show all folders and files under a directory tree.
 
-What files are in your home directory?
+#What files are in your home directory?
 /Users/danielsmith/:
 Applications       Documents          Movies             Pictures
 BitTorrent Sync    Downloads          Music              Public
 Desktop            Library            PdaNetUninstall.sh workspace
 
-What's in slash temp?
+#What's in slash temp?
 Igors-MacBook-Pro:Learn_command_line_exercises $ ls -1R /tmp
 KSOutOfProcessFetcher.0.sAglCyxY5lzPoNgfmEvv-ZqGl-w=
 KSOutOfProcessFetcher.501.sAglCyxY5lzPoNgfmEvv-ZqGl-w=

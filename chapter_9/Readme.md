@@ -3,8 +3,8 @@ in other words, something is their, I can't do a soft remove on the Dir file str
 
 when touching a previous file it updated the time that the file was last used.
 
-Can you touch blah.txt?
+#Can you touch blah.txt?
 touch blah.txt
-Let's create foo.txt.
+#Let's create foo.txt.
 echo 'something' > foo.txt
 or touch foo.txt

@@ -1,4 +1,4 @@
-
+|comand| folder name|
 |-------|------|
 | mkdir | test |
 | rmdir | test |
@@ -49,7 +49,7 @@ rmdir things/
 rmdir stuff/
 rmdir tmp/
 
-Can you remove the tmp directory?
-rmdir will work so long as nothing is with in the tmp folder
-Let's remove the tmp directory.
+#Can you remove the tmp directory?
+rmdir tmp will work so long as nothing is with in the tmp folder
+#Let's remove the tmp directory.
 rmdir tmp
