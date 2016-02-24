@@ -1,4 +1,4 @@
 >###Can we see what's in our production log?
-less ex12.txt
+less production.log
 >###What does our database.yml look like?
 less database.yml
