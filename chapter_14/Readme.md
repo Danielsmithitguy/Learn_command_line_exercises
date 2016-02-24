@@ -13,3 +13,8 @@ rm development.log
 >###Can you remove everything in the slash temp slash foo directory?
 
 rm -rf /tmp/foo
+
+>###Why is bad to run rm -rf /
+
+That would end up removing everything under just '/' so, the entire base dir that has all OS critical files and thus any files on the computer
+
