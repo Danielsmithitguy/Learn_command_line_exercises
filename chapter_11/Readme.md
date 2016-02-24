@@ -5,7 +5,7 @@ mv ./newfolder2/newfile.txt ./newfolder
 
 >#Can you rename foo.txt to blah.txt?
 
-mv ./newfolder/foo.txt ./newfolder2/blah.txt
+mv ./newfolder/foo.txt ./newfolder/blah.txt
 
 >#Can you move the production.log file in the log directory to slash temp?
 
