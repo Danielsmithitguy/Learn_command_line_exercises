@@ -4,4 +4,4 @@ cat *.txt
 
 >###Show me the content of the text files in slash temp.
 
-cat ./tmp/*.txt
+cat /tmp/*.txt
