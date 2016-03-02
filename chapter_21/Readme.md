@@ -14,7 +14,7 @@ what the home dir would be under `env`
 >###Can you set your environment to have DEBUG set to true?
 
 Are you asking me to change the debug env to true or to make one set to true?
-to make one would be `DEBUG='True'` and if env had one called $DEBUG then 
+to make one would be `export DEBUG='True'` and if env had one called $DEBUG then 
 `echo $DEBUG` should print it out, however it prints nothing.
 
 >###change your PATH for your computer.
