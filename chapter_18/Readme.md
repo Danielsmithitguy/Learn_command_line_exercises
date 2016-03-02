@@ -18,7 +18,7 @@ grep 'This is' *.txt
 
 >###Take the list of videos you created (or any other list) and use it to find some videos you want to find.
 
-?? not sure what you mean
+grep -f move.txt 
 
 >###What does -i do with grep?
 
