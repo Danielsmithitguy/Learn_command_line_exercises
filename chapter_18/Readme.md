@@ -12,13 +12,15 @@ grep 'daniel smith' *.txt
 
 >###Use quotes to find "new file" and "old file" and "This is".
 
-grep 'new file' *.txt
-grep 'old file' *.txt
-grep 'This is' *.txt
+```grep 'new file' *.txt```
+```grep 'old file' *.txt```
+```grep 'This is' *.txt```
 
 >###Take the list of videos you created (or any other list) and use it to find some videos you want to find.
 
-grep -f move.txt 
+grep -f output.txt 
+
+-f should be 'file' so grep looks for a file (the -f flag) named move.txt to do it's search with?
 
 >###What does -i do with grep?
 
