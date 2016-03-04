@@ -1,3 +1,7 @@
+>###What option to ls tells it to output file size in human readable form?
+
+ls -lh
+
 >###Is there a case insensitive option to grep?
 
 grep -i
