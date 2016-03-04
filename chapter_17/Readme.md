@@ -8,4 +8,4 @@ find ./log/ -name "*.log"
 
 >###Look for all the video files on your computer starting at the home drive and use the > to save the list to a file
 
-find ~/ "<name_of_file.File_format>" > output.txt
+find ~/ *.mp3 > output.txt
