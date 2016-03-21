@@ -8,14 +8,11 @@
 
 >###What is your home directory set to?
 
-Not sure what my home dir would be, nor is there anything that is explicit on
-what the home dir would be under `env`
+`echo $HOME /Users/danielsmith`
 
 >###Can you set your environment to have DEBUG set to true?
 
-Are you asking me to change the debug env to true or to make one set to true?
-to make one would be `export DEBUG='True'` and if env had one called $DEBUG then 
-`echo $DEBUG` should print it out, however it prints nothing.
+`echo $DEBUG true`
 
 >###change your PATH for your computer.
 
