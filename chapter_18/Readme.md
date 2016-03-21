@@ -1,6 +1,6 @@
 >###Show me the lines in foo.txt that have "ERROR" in them.
 
-grep error foo.txt
+grep ERROR foo.txt
 
 >###Show me the lines in bar.txt that have "davinci" in them.
 
@@ -18,7 +18,7 @@ grep 'daniel smith' *.txt
 
 >###Take the list of videos you created (or any other list) and use it to find some videos you want to find.
 
-grep -f output.txt 
+grep 'movie' output.txt 
 
 -f should be 'file' so grep looks for a file (the -f flag) named move.txt to do it's search with?
 
